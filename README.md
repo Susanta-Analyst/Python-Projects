@@ -1,5 +1,11 @@
-Project 1 - Calculation of BMI Calculator
-Project 2 - File Sorting using text, csv nd excel file
+## Projects in Python
+
+Project 1 - BMI Calculator for finding Body Mass Index
+
+Project 2 - File Sorting using text, csv and excel file
+
 Project 3 - Amazon WebScrapping
+
 Project 4 - A project on Crypto Currency
-Visualisation with Panda
+
+Visualisation with Pandas
